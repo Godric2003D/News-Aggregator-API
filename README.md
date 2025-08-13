@@ -28,5 +28,5 @@ A **Spring Boot REST API** that allows users to register, log in, set preference
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/godric2003d/News-Aggregator-API.git
+https://github.com/Godric2003D/News-Aggregator-API.git
 cd News-Aggregator-API
